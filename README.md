@@ -1,7 +1,8 @@
 # GitTest
 
-func b() {
 
+func a () {
+    
 }
 
-b()
+a()
