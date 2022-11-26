@@ -1,1 +1,5 @@
 # GitTest
+
+func b() {
+
+}
